@@ -11,7 +11,7 @@ def decryption():
     		print(en[letter], end='')
 	print("\n")
 def exit():
-	exit(0)
+	exit()
 def encryption():
 	print("Enter text")
 	text = raw_input("> ")
