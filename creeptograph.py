@@ -10,8 +10,6 @@ def decryption():
 	for letter in text:
     		print(en[letter], end='')
 	print("\n")
-def exit():
-	exit()
 def encryption():
 	print("Enter text")
 	text = raw_input("> ")
